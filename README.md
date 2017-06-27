@@ -7,7 +7,7 @@
 
 ## Firefox (greasemonkey) installation
 
-[Click here](), and accept the installation prompt.
+[Click here](https://github.com/cemerick/ancap-news/raw/master/ancapnews.user.js), and accept the installation prompt.
 
 ## Chrome extension
 
